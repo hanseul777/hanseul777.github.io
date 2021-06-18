@@ -1,5 +1,12 @@
 ## Welcome to GitHub Pages
 
+차한슬의 홈페이지 :) (21.05.24)   
+---------------------
+
+1. 21.06.18
+
+    블로그를 처음으로 만든 날. 오늘은 메소드를 배웠다.
+
 You can use the [editor on GitHub](https://github.com/hanseul777/hanseul777.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
